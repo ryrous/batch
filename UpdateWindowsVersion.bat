@@ -1,0 +1,1 @@
+Dism /online /Set-Edition:<edition name> /AcceptEula /ProductKey:12345-67890-12345-67890-12345

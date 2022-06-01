@@ -1,0 +1,2 @@
+:: This command will synchronize all partitions (/A), using push notifications (/p), in enterprise mode across Active Directory sites (/e) using distinguished names instead of DNS names (/d).
+repadmin.exe /syncall /Aped
